@@ -5,7 +5,7 @@
  Echo to Arduino pin 7 
  Trig to Arduino pin 8
  
- *	Author - Krishan Liyanaarachchi
+ Author - Krishan Liyanaarachchi
  
  */
 
